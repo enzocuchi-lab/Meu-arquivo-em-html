@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula</title>
+</head>
+<body>
+    <h2>Usando links internos</h2>
+    <P>Esta é a primeira página do site. Se você quiser, pode acessar a minha <a href="pg002.html" rel="next" target="_self">Segunda página</a></P>
+    <p>Você também pode acessar a nossa <a href="noticias/pg003.html" rel="next" target="_self">Página de noticias</a></p>
+    
+</body>
+</html>
